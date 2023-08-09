@@ -20,16 +20,6 @@ My Catppuccin rice of Serial Experiments Lain
 </details>
 
 <details>
-<summary><h3><samp>🐟 Terminal Setup</samp></h3></summary>
-
-- Emulator: [Kitty](https://github.com/kovidgoyal/kitty)
-- Shell: [Fish](https://github.com/fish-shell/fish-shell)
-- Framework: [Fisher](https://github.com/jorgebucaran/fisher)
-- Prompt: [Hydro](https://github.com/jorgebucaran/hydro)
-- Theme: [Kitty](https://github.com/catppuccin/kitty) + [Fish](https://github.com/catppuccin/fish)
-</details>
-
-<details>
 <summary><h3><samp>🖥️ Desktop Setup</samp></h3></summary>
 
 - Theme: [MochaTheme-4](https://github.com/lime-desu/MochaTheme)
@@ -41,6 +31,16 @@ My Catppuccin rice of Serial Experiments Lain
 <summary><h3><samp>🧩 Extensions</samp></h3></summary>
 
 
+</details>
+
+<details>
+<summary><h3><samp>🐟 Terminal Setup</samp></h3></summary>
+
+- Emulator: [Kitty](https://github.com/kovidgoyal/kitty)
+- Shell: [Fish](https://github.com/fish-shell/fish-shell)
+- Framework: [Fisher](https://github.com/jorgebucaran/fisher)
+- Prompt: [Hydro](https://github.com/jorgebucaran/hydro)
+- Theme: [Kitty](https://github.com/catppuccin/kitty) + [Fish](https://github.com/catppuccin/fish)
 </details>
 
 <details>
