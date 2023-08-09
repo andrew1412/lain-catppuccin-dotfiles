@@ -20,7 +20,7 @@ My Catppuccin rice of Serial Experiments Lain
 </details>
 
 <details>
-<summary><h3><samp>🖥️ Desktop Setup</samp></h3></summary>
+<summary><h3><samp>🖥️ Desktop</samp></h3></summary>
 
 - OS: [Nobara 38 Gnome](https://nobaraproject.org/)
 - DE: Gnome  44.2
@@ -28,6 +28,7 @@ My Catppuccin rice of Serial Experiments Lain
 - Top Panel: Modified `gnome-shell.css` included in the theme
 - Icons: [Papirus Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) + [Papirus Folders](https://github.com/catppuccin/papirus-folders)
 - Fonts: [Hack Nerd](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/Gohu.zip), [Cantarell](https://cantarell.gnome.org/releases/cantarell-fonts-0.303.tar.xz)
+- Wallpeper: [1920x1080](https://raw.githubusercontent.com/andrew1412/lain-catppuccin-dotfiles/main/wallpapers/desktop.png)
 </details>
 
 <details>
@@ -67,13 +68,18 @@ User
 </details>
 
 <details>
-<summary><h3><samp>📱 Android Phone</samp></h3></summary>
+<summary><h3><samp>📱 Phone</samp></h3></summary>
 
-
+- OS: [GrapheneOS](https://grapheneos.org/) Android 13
+- Wallpaper: [1080x2340](https://raw.githubusercontent.com/andrew1412/lain-catppuccin-dotfiles/main/wallpapers/phone.png)
+> ⚠️ Installed from the [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) and Network Disabled ⬇️
+- Launcher: [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
+- Icons: []()
+- Search Bar: []()
 </details>
 
 <details>
-<summary><h3><samp>⬇️ More…</samp></h3></summary>
+<summary><h3><samp>✨ More…</samp></h3></summary>
 
 
 </details>
