@@ -22,18 +22,19 @@ My Catppuccin rice of Serial Experiments Lain
 <details>
 <summary><h3><samp>🐟 Terminal Setup</samp></h3></summary>
 
-- Emulator: [kitty](https://github.com/kovidgoyal/kitty)
-- Shell: [fish]()
-- Framework: [Fisher]()
-- Prompt: [Hydro]()
+- Emulator: [Kitty](https://github.com/kovidgoyal/kitty)
+- Shell: [Fish](https://github.com/fish-shell/fish-shell)
+- Framework: [Fisher](https://github.com/jorgebucaran/fisher)
+- Prompt: [Hydro](https://github.com/jorgebucaran/hydro)
+- Theme: [Kitty](https://github.com/catppuccin/kitty) + [Fish](https://github.com/catppuccin/fish)
 </details>
 
 <details>
 <summary><h3><samp>🖥️ Desktop Setup</samp></h3></summary>
 
 - Theme: [MochaTheme-4](https://github.com/lime-desu/MochaTheme)
-- Icons: [Papirus Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) + [papirus-folders](https://github.com/catppuccin/papirus-folders)
-- Fonts: [Hack Nerd Mono](), [Cantarell]()
+- Icons: [Papirus Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) + [Papirus Folders](https://github.com/catppuccin/papirus-folders)
+- Fonts: [Hack Nerd](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/Gohu.zip), [Cantarell](https://cantarell.gnome.org/releases/cantarell-fonts-0.303.tar.xz)
 </details>
 
 <details>
