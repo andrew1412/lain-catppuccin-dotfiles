@@ -22,7 +22,10 @@ My Catppuccin rice of Serial Experiments Lain
 <details>
 <summary><h3><samp>🖥️ Desktop Setup</samp></h3></summary>
 
+- OS: [Nobara 38 Gnome](https://nobaraproject.org/)
+- DE: Gnome  44.2
 - Theme: [MochaTheme-4](https://github.com/lime-desu/MochaTheme)
+- Top Panel: Modified `gnome-shell.css` included in the theme
 - Icons: [Papirus Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) + [Papirus Folders](https://github.com/catppuccin/papirus-folders)
 - Fonts: [Hack Nerd](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/Gohu.zip), [Cantarell](https://cantarell.gnome.org/releases/cantarell-fonts-0.303.tar.xz)
 </details>
