@@ -81,10 +81,10 @@ User
 <details>
 <summary><h3><samp>✨ More…</samp></h3></summary>
 
-[Firefox CSS](https://codeberg.org/Freeplay/Firefox-Onebar)
-[Catppuccin for Firefox](https://github.com/catppuccin/firefox)
-[Starpage](https://github.com/PrettyCoffee/yet-another-generic-startpage)
-[My cistom theme for the startpage]()
+- [Firefox CSS](https://codeberg.org/Freeplay/Firefox-Onebar)
+- [Catppuccin for Firefox](https://github.com/catppuccin/firefox)
+- [Starpage](https://github.com/PrettyCoffee/yet-another-generic-startpage)
+- [My cistom theme for the startpage]()
 </details>
 
 <details open>
