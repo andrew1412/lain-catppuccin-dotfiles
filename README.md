@@ -33,7 +33,7 @@ My Catppuccin rice of Serial Experiments Lain
 
 - Theme: [Catppuccin GTK](https://github.com/catppuccin/gtk)
 - Icons: [Papirus Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) + [papirus-folders](https://github.com/catppuccin/papirus-folders)
-- Fonts: [Hacke Nerd Mono](), [Cantarell]()
+- Fonts: [Hack Nerd Mono](), [Cantarell]()
 </details>
 
 <details>
