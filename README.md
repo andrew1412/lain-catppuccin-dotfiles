@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
 My Catppuccin rice of Serial Experiments Lain
-</h3>
+</h1>
 
 ![rice.png](assets/rice.png)
 
