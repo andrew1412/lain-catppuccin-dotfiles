@@ -31,7 +31,7 @@ My Catppuccin rice of Serial Experiments Lain
 <details>
 <summary><h3><samp>🖥️ Desktop Setup</samp></h3></summary>
 
-- Theme: [Catppuccin GTK](https://github.com/catppuccin/gtk)
+- Theme: [MochaTheme-4](https://github.com/lime-desu/MochaTheme)
 - Icons: [Papirus Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) + [papirus-folders](https://github.com/catppuccin/papirus-folders)
 - Fonts: [Hack Nerd Mono](), [Cantarell]()
 </details>
@@ -52,4 +52,11 @@ My Catppuccin rice of Serial Experiments Lain
 <summary><h3><samp>⬇️ More…</samp></h3></summary>
 
 
+</details>
+
+<details open>
+<summary><h3><samp>🏅 Credits</samp></h3></summary>
+
+- [Catppuccin](https://github.com/catppuccin/catppuccin)
+- 
 </details>
