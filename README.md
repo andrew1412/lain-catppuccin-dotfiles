@@ -1,10 +1,10 @@
 # lain-catppuccin-dotfiles
 My Catppuccin rice of Serial Experiments Lain
 
-<details open>
-<summary><h3><samp> Screenshots</samp></h3></summary>
-
 ![rice.png](assets/rice.png)
+
+<details close>
+<summary><h3><samp>More Screenshots</samp></h3></summary>
 
 ![desktop.png](assets/desktop.png)
 
