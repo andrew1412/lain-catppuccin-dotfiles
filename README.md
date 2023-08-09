@@ -79,6 +79,18 @@ User
 </details>
 
 <details>
+<summary><h3><samp>💾 Programs</samp></h3></summary>
+  
+> FOSS = 🟢 | Non FOSS = 🔴
+
+Pc
+- []()
+
+Phone
+- []()
+</details>
+
+<details>
 <summary><h3><samp>✨ More…</samp></h3></summary>
 
 - [Firefox CSS](https://codeberg.org/Freeplay/Firefox-Onebar)
