@@ -84,7 +84,7 @@ User
 - [Firefox CSS](https://codeberg.org/Freeplay/Firefox-Onebar)
 - [Catppuccin for Firefox](https://github.com/catppuccin/firefox)
 - [Starpage](https://github.com/PrettyCoffee/yet-another-generic-startpage)
-- [My cistom theme for the startpage]()
+- [My custom theme for the startpage](https://github.com/andrew1412/lain-catppuccin-dotfiles/blob/main/extras/startpage%20theme/ls-backup.json) `download it as raw and import it`
 </details>
 
 <details open>
