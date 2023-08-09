@@ -94,4 +94,6 @@ User
 - [Catppuccin](https://github.com/catppuccin/catppuccin)
 - [Drawing of Lain in wallpaper](https://www.instagram.com/thecryptidhermit/)
 - [Drawing of Lain in startpage](https://www.instagram.com/truffle.duster/)
+- [Neofetch](https://github.com/dylanaraps/neofetch)
+- [Neofetch Themes](https://github.com/Chick2D/neofetch-themes/tree/main)
 </details>
