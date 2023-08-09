@@ -33,7 +33,27 @@ My Catppuccin rice of Serial Experiments Lain
 <details>
 <summary><h3><samp>🧩 Extensions</samp></h3></summary>
 
+Sistem
+- [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/)
+- [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
+- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/)
+- [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
+- [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 
+User
+- [Auto Activities](https://extensions.gnome.org/extension/5500/auto-activities/)
+- [Aylur's Widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
+- [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
+- [Color Picker](https://extensions.gnome.org/extension/3396/color-picker/)
+- [Colored Application Menu Icon](https://extensions.gnome.org/extension/4408/app-menu-icon-remove-symbolic/)
+- [Cronomix](https://extensions.gnome.org/extension/6003/cronomix/)
+- [Gnome 4x UI Improvements](https://extensions.gnome.org/extension/4158/gnome-40-ui-improvements/)
+- [Lineup](https://extensions.gnome.org/extension/5955/lineup/)
+- [Logo Menu](https://extensions.gnome.org/extension/4451/logo-menu/)
+- [Pop Shell](https://support.system76.com/articles/pop-shell/)
+- [Quick Setting Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/)
+- [Rounded Window Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
+- [User Avatar In Quick Settings](https://extensions.gnome.org/extension/5506/user-avatar-in-quick-settings/)
 </details>
 
 <details>
