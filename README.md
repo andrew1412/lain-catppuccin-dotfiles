@@ -91,5 +91,6 @@ User
 <summary><h3><samp>🏅 Credits</samp></h3></summary>
 
 - [Catppuccin](https://github.com/catppuccin/catppuccin)
-- 
+- [Drawing of Lain in wallpaper](https://www.instagram.com/thecryptidhermit/)
+- [Drawing of Lain in startpage](https://www.instagram.com/truffle.duster/)
 </details>
