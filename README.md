@@ -85,6 +85,7 @@ User
 - [Catppuccin for Firefox](https://github.com/catppuccin/firefox)
 - [Starpage](https://github.com/PrettyCoffee/yet-another-generic-startpage)
 - [My custom theme for the startpage](https://github.com/andrew1412/lain-catppuccin-dotfiles/blob/main/extras/startpage%20theme/ls-backup.json) `download it as raw and import it`
+- [Catppuccin for VSCode](https://github.com/alexdauenhauer/catppuccin-noctis)
 </details>
 
 <details open>
