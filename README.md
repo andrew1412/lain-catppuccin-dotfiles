@@ -73,9 +73,9 @@ User
 - OS: [GrapheneOS](https://grapheneos.org/) Android 13
 - Wallpaper: [1080x2340](https://raw.githubusercontent.com/andrew1412/lain-catppuccin-dotfiles/main/wallpapers/phone.png)
 > ⚠️ Installed from the [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) and Network Disabled ⬇️
-- Launcher: [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
-- Icons: [Taco Taco ](https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.taco_taco.paid)
-- Search Bar: [Custom Search Bar Widget](https://play.google.com/store/apps/details?id=com.natewren.csbw)
+- Launcher: [Niagara Launcher](https://play.google.com/store/search?q=niagara+launcher&c=apps&gl=EG)
+- Icons: [Taco Taco ](https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.taco_taco.paid&gl=EG)
+- Search Bar: [Custom Search Bar Widget](https://play.google.com/store/apps/details?id=com.natewren.csbw&gl=EG)
 </details>
 
 <details>
