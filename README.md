@@ -49,7 +49,7 @@ My Catppuccin rice of Serial Experiments Lain
 </details>
 
 <details>
-<summary><h3><samp>🍬 More…</samp></h3></summary>
+<summary><h3><samp>⬇️ More…</samp></h3></summary>
 
 
 </details>
