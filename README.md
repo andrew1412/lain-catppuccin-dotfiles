@@ -58,7 +58,7 @@ User
 </details>
 
 <details>
-<summary><h3><samp>🐟 Terminal Setup</samp></h3></summary>
+<summary><h3><samp>🐟 Terminal</samp></h3></summary>
 
 - Emulator: [Kitty](https://github.com/kovidgoyal/kitty)
 - Shell: [Fish](https://github.com/fish-shell/fish-shell)
