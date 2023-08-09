@@ -1,5 +1,6 @@
-# lain-catppuccin-dotfiles
+<h3 align="center">
 My Catppuccin rice of Serial Experiments Lain
+</h3>
 
 ![rice.png](assets/rice.png)
 
