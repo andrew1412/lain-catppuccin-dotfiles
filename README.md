@@ -34,7 +34,7 @@ My Catppuccin rice of Serial Experiments Lain
 <details>
 <summary><h3><samp>🧩 Extensions</samp></h3></summary>
 
-Sistem
+System
 - [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/)
 - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 - [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/)
