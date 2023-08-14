@@ -87,51 +87,50 @@ Pc
 - []()
 
 Phone
-- [Aegis]() 🟢
-- [Aliucord]() 🟢
-- [Animiru]() 🟢
-- [Aurora Store]() 🟢
-- [Calculator-Inator]() 🟢
-- [Simple Calendar]() 🟢
-- [Breezy Weather]() 🟢
-- [Crunchyroll]() 🔴
-- [CSBW]() 🔴
-- [Dumbphone Assistant]() 🟢
-- [Gallery]() 🟢
-- [Image Toolbox]() 🟢
-- [InnerTune]() 🟢
-- [KDE Connect]() 🟢
-- [KeePassDX]() 🟢
-- [LibreTube]() 🟢
-- [Molly]() 🟢
-- [MPV]() 🟢
-- [Mull]() 🟢
-- [Netflix]() 🔴
-- [NewPipe]() 🟢
-- [Niagara Launcher]() 🔴
-- [Obnsidian]() 🔴
-- [Obtainium]() 🟢
-- [Open Board]() 🟢
-- [Organic Maps]() 🟢
-- [Photon]() 🟢
-- [Pocket Paint]() 🟢
-- [Proton Mail]() 🟢
-- [RAR]() 🔴
-- [Read You]() 🟢
-- [Record You]() 🟢
-- [Seal]() 🟢
-- [Shattered Pixel Dungeon]() 🟢
-- [Squawker]() 🟢
-- [Stealth]() 🟢
-- [Steam]() 🔴
-- [Syncthing]() 🟢
-- [TachiJ2K]() 🟢
-- [Taco Taco]() 🔴
-- [Thunder]() 🟢
-- [Translate You]() 🟢
-- [Vanadium]() 🟢
-- [Waistline]() 🟢
-- [WhatsApp]() 🔴
+- 🟢 [Aegis](https://github.com/beemdevelopment/Aegis) `2FA`
+- 🟢 [Aliucord](https://github.com/Aliucord/Aliucord) `Discord client`
+- 🟢 [Animiru](https://github.com/Quickdesh/Animiru) `Anime provider`
+- 🟢 [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) `Playstore alternative`
+- 🟢 [Calculator-Inator](https://github.com/prathameshmm02/Calculator-inator) `Calculator and converter`
+- 🟢 [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) 
+- 🟢 [Breezy Weather](https://github.com/breezy-weather/breezy-weather) 
+- 🔴 [Crunchyroll]() 
+- 🔴 [CSBW]() `Custom search bar widget`
+- 🟢 [Dumbphone Assistant](https://f-droid.org/packages/com.github.yeriomin.dumbphoneassistant/) `Save contacts in SIM`
+- 🟢 [Gallery](https://github.com/IacobIonut01/Gallery) 
+- 🟢 [Image Toolbox](https://github.com/T8RIN/ImageToolbox) `Corp and resize images`
+- 🟢 [InnerTune](https://github.com/z-huang/InnerTune) `YouTube Music front end`
+- 🟢 [KDE Connect](https://f-droid.org/packages/org.kde.kdeconnect_tp/) `Share files with Pc`
+- 🟢 [KeePassDX](https://github.com/Kunzisoft/KeePassDX) `Pasword manager`
+- 🟢 [LibreTube](https://github.com/libre-tube/LibreTube) `YouTube front end`
+- 🟢 [Molly](https://github.com/mollyim/mollyim-android) `Signal client`
+- 🟢 [MPV](https://github.com/mpv-android/mpv-android) `Video player`
+- 🟢 [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) `Hardened Firefox`
+- 🔴 [Netflix]() 
+- 🟢 [NewPipe](https://github.com/TeamNewPipe/NewPipe) `YouTube front end`
+- 🔴 [Niagara Launcher]() 
+- 🔴 [Obnsidian]() `Note taking`
+- 🟢 [Obtainium]() `FOSS apps downloader`
+- 🟢 [Open Board]() 
+- 🟢 [Organic Maps]() 
+- 🟢 [Photon]() `Share files between android devices`
+- 🟢 [Pocket Paint]() 
+- 🟢 [Proton Mail]() 
+- 🔴 [RAR]() 
+- 🟢 [Read You]() `RSS reader`
+- 🟢 [Record You]() 
+- 🟢 [Seal]() `YouTube downloader`
+- 🟢 [Shattered Pixel Dungeon]() 
+- 🟢 [Squawker]() `Twitter front end`
+- 🟢 [Stealth]() `Reddit front end`
+- 🔴 [Steam]() 
+- 🟢 [Syncthing]() `Sync files between devices`
+- 🟢 [TachiJ2K]() `Manga reader`
+- 🔴 [Taco Taco]() 
+- 🟢 [Thunder]() `Lemmy client`
+- 🟢 [Translate You]() 
+- 🟢 [Waistline]() `calorie counter and weight tracker`
+- 🔴 [WhatsApp]() 
 </details>
 
 <details>
