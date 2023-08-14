@@ -129,7 +129,7 @@ Phone
 - 🔴 [Taco Taco]() 
 - 🟢 [Thunder]() `Lemmy client`
 - 🟢 [Translate You]() 
-- 🟢 [Waistline]() `calorie counter and weight tracker`
+- 🟢 [Waistline]() `Calorie counter and weight tracker`
 - 🔴 [WhatsApp]() 
 </details>
 
