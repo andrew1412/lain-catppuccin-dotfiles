@@ -91,7 +91,6 @@ Phone
 - [Aliucord]() 🟢
 - [Animiru]() 🟢
 - [Aurora Store]() 🟢
-- [Boorusphere]() 🟢
 - [Calculator-Inator]() 🟢
 - [Simple Calendar]() 🟢
 - [Breezy Weather]() 🟢
