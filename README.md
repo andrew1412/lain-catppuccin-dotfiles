@@ -87,7 +87,52 @@ Pc
 - []()
 
 Phone
-- []()
+- [Aegis]() 🟢
+- [Aliucord]() 🟢
+- [Animiru]() 🟢
+- [Aurora Store]() 🟢
+- [Boorusphere]() 🟢
+- [Calculator-Inator]() 🟢
+- [Simple Calendar]() 🟢
+- [Breezy Weather]() 🟢
+- [Crunchyroll]() 🔴
+- [CSBW]() 🔴
+- [Dumbphone Assistant]() 🟢
+- [Gallery]() 🟢
+- [Image Toolbox]() 🟢
+- [InnerTune]() 🟢
+- [KDE Connect]() 🟢
+- [KeePassDX]() 🟢
+- [LibreTube]() 🟢
+- [Molly]() 🟢
+- [MPV]() 🟢
+- [Mull]() 🟢
+- [Netflix]() 🔴
+- [NewPipe]() 🟢
+- [Niagara Launcher]() 🔴
+- [Obnsidian]() 🔴
+- [Obtainium]() 🟢
+- [Open Board]() 🟢
+- [Organic Maps]() 🟢
+- [Photon]() 🟢
+- [Pocket Paint]() 🟢
+- [Proton Mail]() 🟢
+- [RAR]() 🔴
+- [Read You]() 🟢
+- [Record You]() 🟢
+- [Seal]() 🟢
+- [Shattered Pixel Dungeon]() 🟢
+- [Squawker]() 🟢
+- [Stealth]() 🟢
+- [Steam]() 🔴
+- [Syncthing]() 🟢
+- [TachiJ2K]() 🟢
+- [Taco Taco]() 🔴
+- [Thunder]() 🟢
+- [Translate You]() 🟢
+- [Vanadium]() 🟢
+- [Waistline]() 🟢
+- [WhatsApp]() 🔴
 </details>
 
 <details>
