@@ -94,8 +94,8 @@ Phone
 - 🟢 [Calculator-Inator](https://github.com/prathameshmm02/Calculator-inator) `Calculator and converter`
 - 🟢 [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) 
 - 🟢 [Breezy Weather](https://github.com/breezy-weather/breezy-weather) 
-- 🔴 [Crunchyroll]() 
-- 🔴 [CSBW]() `Custom search bar widget`
+- 🔴 [Crunchyroll](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid) 
+- 🔴 [CSBW](https://play.google.com/store/apps/details?id=com.natewren.csbw) `Custom search bar widget`
 - 🟢 [Dumbphone Assistant](https://f-droid.org/packages/com.github.yeriomin.dumbphoneassistant/) `Save contacts in SIM`
 - 🟢 [Gallery](https://github.com/IacobIonut01/Gallery) 
 - 🟢 [Image Toolbox](https://github.com/T8RIN/ImageToolbox) `Corp and resize images`
@@ -106,31 +106,31 @@ Phone
 - 🟢 [Molly](https://github.com/mollyim/mollyim-android) `Signal client`
 - 🟢 [MPV](https://github.com/mpv-android/mpv-android) `Video player`
 - 🟢 [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) `Hardened Firefox`
-- 🔴 [Netflix]() 
+- 🔴 [Netflix](https://play.google.com/store/apps/details?id=com.netflix.mediaclient) 
 - 🟢 [NewPipe](https://github.com/TeamNewPipe/NewPipe) `YouTube front end`
-- 🔴 [Niagara Launcher]() 
-- 🔴 [Obnsidian]() `Note taking`
-- 🟢 [Obtainium]() `FOSS apps downloader`
-- 🟢 [Open Board]() 
-- 🟢 [Organic Maps]() 
-- 🟢 [Photon]() `Share files between android devices`
-- 🟢 [Pocket Paint]() 
-- 🟢 [Proton Mail]() 
-- 🔴 [RAR]() 
-- 🟢 [Read You]() `RSS reader`
-- 🟢 [Record You]() 
-- 🟢 [Seal]() `YouTube downloader`
-- 🟢 [Shattered Pixel Dungeon]() 
-- 🟢 [Squawker]() `Twitter front end`
-- 🟢 [Stealth]() `Reddit front end`
-- 🔴 [Steam]() 
-- 🟢 [Syncthing]() `Sync files between devices`
-- 🟢 [TachiJ2K]() `Manga reader`
-- 🔴 [Taco Taco]() 
-- 🟢 [Thunder]() `Lemmy client`
-- 🟢 [Translate You]() 
-- 🟢 [Waistline]() `Calorie counter and weight tracker`
-- 🔴 [WhatsApp]() 
+- 🔴 [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher) 
+- 🔴 [Obnsidian](https://play.google.com/store/apps/details?id=md.obsidian) `Note taking`
+- 🟢 [Obtainium](https://github.com/ImranR98/Obtainium) `FOSS apps downloader`
+- 🟢 [Open Board](https://github.com/openboard-team/openboard) 
+- 🟢 [Organic Maps](https://github.com/organicmaps/organicmaps) 
+- 🟢 [Photon](https://github.com/abhi16180/photon) `Share files between android devices`
+- 🟢 [Pocket Paint](https://github.com/Catrobat/Paintroid/) 
+- 🟢 [Proton Mail](https://github.com/ProtonMail/proton-mail-android) 
+- 🔴 [RAR](https://play.google.com/store/apps/details?id=com.rarlab.rar) 
+- 🟢 [Read You](https://github.com/Ashinch/ReadYou) `RSS reader`
+- 🟢 [Record You](https://github.com/you-apps/RecordYou) 
+- 🟢 [Seal](https://github.com/JunkFood02/Seal) `YouTube downloader`
+- 🟢 [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) 
+- 🟢 [Squawker](https://github.com/j-fbriere/squawker) `Twitter front end`
+- 🟢 [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) `Reddit front end`
+- 🔴 [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community) 
+- 🟢 [Syncthing](https://github.com/syncthing/syncthing-android) `Sync files between devices`
+- 🟢 [TachiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) `Manga reader`
+- 🔴 [Taco Taco](https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.taco_taco.paid) 
+- 🟢 [Thunder](https://github.com/thunder-app/thunder) `Lemmy client`
+- 🟢 [Translate You](https://github.com/you-apps/TranslateYou) 
+- 🟢 [Waistline](https://github.com/davidhealey/waistline) `Calorie counter and weight tracker`
+- 🔴 [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) 
 </details>
 
 <details>
