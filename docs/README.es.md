@@ -6,6 +6,7 @@ Mi rice Catppuccin de Serial Experiments Lain
 
 <details close>
 <summary><h3><samp>🖼️ Screenshots</samp></h3></summary>
+*lee este documento en otros idiomas: [Español](docs/README.es.md), [Ingles](../README.md) (Puedes contribuir a añadir mas)*
 
 ![desktop.png](../assets/desktop.png)
 
