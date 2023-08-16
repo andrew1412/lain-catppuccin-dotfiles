@@ -3,7 +3,7 @@ My Catppuccin rice of Serial Experiments Lain
 </h1>
 
 ![rice.png](assets/rice.png)
-*Read this document in other languages: [Español](docs/README.es.md) (You can contribut to add more)*
+*Read this document in other languages: [English](README.md), [Spanish](docs/README.es.md) (You can contribut to add more)*
 
 <details close>
 <summary><h3><samp>🖼️ Screenshots</samp></h3></summary>
