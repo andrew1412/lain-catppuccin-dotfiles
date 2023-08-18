@@ -85,7 +85,53 @@ User
 > FOSS = 🟢 | Non FOSS = 🔴
 
 Pc
-- []()
+- 🟢 [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) `Steam theme`
+- 🟢 [An Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) 
+- 🟢 [AM2R launcher](https://flathub.org/apps/io.github.am2r_community_developers.AM2RLauncher) 
+- 🟢 [Aviator](https://flathub.org/apps/net.natesales.Aviator) `Video encoding GUI`
+- 🟢 [Avvie](https://flathub.org/apps/com.github.taiko2k.avvie) `Make profile pictures`
+- 🟢 [Bottles](https://flathub.org/apps/com.usebottles.bottles) `Run windows apps`
+- 🟢 [Catppuccinifier](https://github.com/lighttigerXIV/catppuccinifier) `Convert images to the Catppuccin palette`
+- 🟢 [Catridges](https://flathub.org/apps/hu.kramo.Cartridges) `Universal game launcher`
+- 🟢 [Celluloid](https://flathub.org/apps/io.github.celluloid_player.Celluloid) `MPV GTK`
+- 🟢 [Dialect](https://flathub.org/apps/app.drey.Dialect) `Translate front end`
+- 🟢 [Doom Runner](https://flathub.org/apps/io.github.Youda008.DoomRunner) `Doom launcher`
+- 🟢 [Extension Manager](https://flathub.org/apps/com.mattjakeman.ExtensionManager) 
+- 🟢 [Firefox](https://flathub.org/apps/org.mozilla.firefox) 
+- 🟢 [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal) `Flatpak manager`
+- 🟢 [Flatsweep](https://flathub.org/apps/io.github.giantpinkrobots.flatsweep) `Flatpak cleaner`
+- 🟢 [Fragments](https://flathub.org/apps/de.haeckerfelix.Fragments) `Torrent client`
+- 🟢 [FreeTube](https://flathub.org/apps/io.freetubeapp.FreeTube) `YouTube front end`
+- 🟢 [GIMP](https://flathub.org/apps/org.gimp.GIMP) 
+- 🟢 [Gradience](https://flathub.org/apps/com.github.GradienceTeam.Gradience) 
+- 🟢 [GZDoom](https://flathub.org/apps/org.zdoom.GZDoom) 
+- 🟢 [Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl) `Epic Games Launcher client`
+- 🟢 [Impression](https://flathub.org/apps/io.gitlab.adhami3310.Impression) `USB ISO flasher`
+- 🟢 [Inkscape](https://flathub.org/apps/org.inkscape.Inkscape) 
+- 🟢 [KeePassXC](https://flathub.org/apps/org.keepassxc.KeePassXC) `Password manager`
+- 🟢 [Kitty](https://github.com/kovidgoyal/kitty) 
+- 🟢 [Komikku](https://flathub.org/apps/info.febvre.Komikku) `Manga reader`
+- 🟢 [LibreWolf](https://flathub.org/apps/io.gitlab.librewolf-community) `Hardened Firefox`
+- 🟢 [Login Manager Settings](https://flathub.org/apps/io.github.realmazharhussain.GdmSettings) 
+- 🟢 [Lutris](https://flathub.org/apps/net.lutris.Lutris) 
+- 🟢 [Miru](https://flathub.org/apps/io.github.thaunknown.miru) `Anime provider`
+- 🟢 [Monophony](https://flathub.org/apps/io.gitlab.zehkira.Monophony) `YouTube Music front end`
+- 🟢 [Neovim](https://github.com/neovim/neovim) 
+- 🟢 [NewsFlash](https://flathub.org/apps/io.gitlab.news_flash.NewsFlash) `RSS reader`
+- 🔴 [Obsidian](https://flathub.org/apps/md.obsidian.Obsidian) `Note taking`
+- 🟢 [OBS Studio](https://flathub.org/apps/com.obsproject.Studio) 
+- 🟢 [OnlyOffice](https://flathub.org/apps/org.onlyoffice.desktopeditors) 
+- 🟢 [Parabolic](https://flathub.org/apps/org.nickvision.tubeconverter) `YouTube downloader`
+- 🟢 [Pitivi](https://flathub.org/apps/org.pitivi.Pitivi) `Video editor`
+- 🟢 [Prism Launcher](https://flathub.org/apps/org.prismlauncher.PrismLauncher) `Minecraft launcher`
+- 🟢 [Ryujinx](https://flathub.org/apps/org.ryujinx.Ryujinx) `Shwitch emulator`
+- 🟢 [Save Desktop](https://flathub.org/apps/io.github.vikdevelop.SaveDesktop) `Save your desktop theme and apps`
+- 🔴 [Steam](https://flathub.org/apps/com.valvesoftware.Steam) 
+- 🟢 [Syncthing GTK](https://flathub.org/apps/me.kozec.syncthingtk) `Sync files between devices`
+- 🟢 [Video Trimer](https://flathub.org/apps/org.gnome.gitlab.YaLTeR.VideoTrimmer) `Make clips`
+- 🟢 [VSCodium](https://flathub.org/apps/com.vscodium.codium) `VSCode without the bad`
+- 🟢 [Webapp Manager](https://github.com/linuxmint/webapp-manager) 
+- 🟢 [WebCord](https://flathub.org/apps/io.github.spacingbat3.webcord) `Discord client`
 
 Phone
 - 🟢 [Aegis](https://github.com/beemdevelopment/Aegis) `2FA`
