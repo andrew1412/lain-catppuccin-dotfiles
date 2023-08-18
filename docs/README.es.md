@@ -82,7 +82,7 @@ Usuario
 <details>
 <summary><h3><samp>💾 Programas</samp></h3></summary>
   
-> FOSS = 🟢 | Non FOSS = 🔴
+> FOSS = 🟢 | No FOSS = 🔴
 
 Pc
 - 🟢 [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) `Tema para Steam`
