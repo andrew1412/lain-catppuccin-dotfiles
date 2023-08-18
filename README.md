@@ -90,7 +90,7 @@ Pc
 - 🟢 [AM2R launcher](https://flathub.org/apps/io.github.am2r_community_developers.AM2RLauncher) 
 - 🟢 [Aviator](https://flathub.org/apps/net.natesales.Aviator) `Video encoding GUI`
 - 🟢 [Avvie](https://flathub.org/apps/com.github.taiko2k.avvie) `Make profile pictures`
-- 🟢 [Bottles](https://flathub.org/apps/com.usebottles.bottles) `Run windows apps`
+- 🟢 [Bottles](https://flathub.org/apps/com.usebottles.bottles) `Run Windows apps`
 - 🟢 [Catppuccinifier](https://github.com/lighttigerXIV/catppuccinifier) `Convert images to the Catppuccin palette`
 - 🟢 [Catridges](https://flathub.org/apps/hu.kramo.Cartridges) `Universal game launcher`
 - 🟢 [Celluloid](https://flathub.org/apps/io.github.celluloid_player.Celluloid) `MPV GTK`
