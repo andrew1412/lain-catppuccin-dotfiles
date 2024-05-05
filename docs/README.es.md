@@ -87,28 +87,34 @@ Usuario
 
 Pc
 - 🟢 [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) `Tema para Steam`
-- 🟢 [An Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) 
 - 🟢 [AM2R launcher](https://flathub.org/apps/io.github.am2r_community_developers.AM2RLauncher) 
 - 🟢 [Aviator](https://flathub.org/apps/net.natesales.Aviator) `GUI de ancoding de video`
 - 🟢 [Avvie](https://flathub.org/apps/com.github.taiko2k.avvie) `Cera fotos de perfil`
 - 🟢 [Bottles](https://flathub.org/apps/com.usebottles.bottles) `Usa apps de Windows`
 - 🟢 [Catppuccinifier](https://github.com/lighttigerXIV/catppuccinifier) `Convierte imagenes a la paleta Catppuccin`
 - 🟢 [Catridges](https://flathub.org/apps/hu.kramo.Cartridges) `Launcher de juegos universal`
+- 🟢 [Cave Story NX](https://flathub.org/apps/com.gitlab.coringao.cavestory-nx)
 - 🟢 [Celluloid](https://flathub.org/apps/io.github.celluloid_player.Celluloid) `MPV GTK`
 - 🟢 [Dialect](https://flathub.org/apps/app.drey.Dialect) `Front end de traductor`
 - 🟢 [Doom Runner](https://flathub.org/apps/io.github.Youda008.DoomRunner) `Launcher de Doom`
+- 🟢 [EmuDeck](https://www.emudeck.com)
 - 🟢 [Extension Manager](https://flathub.org/apps/com.mattjakeman.ExtensionManager) 
 - 🟢 [Firefox](https://flathub.org/apps/org.mozilla.firefox) 
 - 🟢 [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal) `Gestiona flatpaks`
 - 🟢 [Flatsweep](https://flathub.org/apps/io.github.giantpinkrobots.flatsweep) `Limpia flatpaks`
+- 🟢 [FluffyChat](https://flathub.org/apps/im.fluffychat.Fluffychat) `cliente de Matrix`
+- 🟢 [Folio](https://flathub.org/apps/com.toolstack.Folio) `Notas`
 - 🟢 [Fragments](https://flathub.org/apps/de.haeckerfelix.Fragments) `Cliente de torrent`
 - 🟢 [FreeTube](https://flathub.org/apps/io.freetubeapp.FreeTube) `Front end de YouTube`
+- 🟢 [Frontends Manager](https://flathub.org/apps/io.github.libredirect.frontends-manager)
+- 🔴 [GazoTuber](https://risunz.itch.io/gazo-tuber) `PNGtuver`
 - 🟢 [GIMP](https://flathub.org/apps/org.gimp.GIMP) 
 - 🟢 [Gradience](https://flathub.org/apps/com.github.GradienceTeam.Gradience) 
 - 🟢 [GZDoom](https://flathub.org/apps/org.zdoom.GZDoom) 
 - 🟢 [Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl) `Cliente de Epic Games Launcher`
 - 🟢 [Impression](https://flathub.org/apps/io.gitlab.adhami3310.Impression) `Flashea ISO a USB`
-- 🟢 [Inkscape](https://flathub.org/apps/org.inkscape.Inkscape) 
+- 🟢 [Inkscape](https://flathub.org/apps/org.inkscape.Inkscape)
+- 🟢 [Jellyfin](https://flathub.org/apps/org.jellyfin.JellyfinServer)
 - 🟢 [KeePassXC](https://flathub.org/apps/org.keepassxc.KeePassXC) `Gestor de contraseñas`
 - 🟢 [Kitty](https://github.com/kovidgoyal/kitty) 
 - 🟢 [Komikku](https://flathub.org/apps/info.febvre.Komikku) `Lector de manga`
@@ -124,46 +130,53 @@ Pc
 - 🟢 [OnlyOffice](https://flathub.org/apps/org.onlyoffice.desktopeditors) 
 - 🟢 [Parabolic](https://flathub.org/apps/org.nickvision.tubeconverter) `Descarga videos de YouTube`
 - 🟢 [Pitivi](https://flathub.org/apps/org.pitivi.Pitivi) `Editor de video`
+- 🟢 [PNGTuber+](https://kaiakairos.itch.io/pngtuber-plus) `PNGtuver`
 - 🟢 [Prism Launcher](https://flathub.org/apps/org.prismlauncher.PrismLauncher) `Launcher de Minecraft`
-- 🟢 [Ryujinx](https://flathub.org/apps/org.ryujinx.Ryujinx) `Emulador de Shwitch`
 - 🟢 [Save Desktop](https://flathub.org/apps/io.github.vikdevelop.SaveDesktop) `Guarda el tema de escritorio y apps`
 - 🔴 [Steam](https://flathub.org/apps/com.valvesoftware.Steam) 
 - 🟢 [Syncthing GTK](https://flathub.org/apps/me.kozec.syncthingtk) `Sincroniza archivos entre dispositivos`
+- 🟢 [Taisei Project](https://flathub.org/apps/org.taisei_project.Taisei) `FOSS Touhou`
 - 🟢 [Video Trimer](https://flathub.org/apps/org.gnome.gitlab.YaLTeR.VideoTrimmer) `Crea clips`
 - 🟢 [VSCodium](https://flathub.org/apps/com.vscodium.codium) `VSCode sin lo malo`
 - 🟢 [Webapp Manager](https://github.com/linuxmint/webapp-manager) 
 - 🟢 [WebCord](https://flathub.org/apps/io.github.spacingbat3.webcord) `Cliente de Discord`
+- 🟢 [Zelda3](https://flathub.org/apps/io.github.snesrev.Zelda3) `Port de A Link to the Past`
 
 Celular
 - 🟢 [Aegis](https://github.com/beemdevelopment/Aegis) `2FA`
 - 🟢 [Aliucord](https://github.com/Aliucord/Aliucord) `Cleinte de discord`
-- 🟢 [Animiru](https://github.com/Quickdesh/Animiru) `Provedor de anime`
+- 🟢 [Animiru](https://github.com/Quickdesh/Animiru) `Provedor de multimedia`
 - 🟢 [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) `Alternative a la playstore`
 - 🟢 [Calculator-Inator](https://github.com/prathameshmm02/Calculator-inator) `Calculadora y conversor`
-- 🟢 [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) 
-- 🟢 [Breezy Weather](https://github.com/breezy-weather/breezy-weather) 
-- 🔴 [Crunchyroll](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid) 
+- 🟢 [Calendario](https://github.com/FossifyOrg/Calendar) 
+- 🟢 [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
+- 🟢 [Boorusphere](https://github.com/nullxception/boorusphere) `Cliente Booru para wallpapers`
+- 🟢 [Clipious](https://github.com/lamarios/clipious) `YouTube front end`
 - 🔴 [CSBW](https://play.google.com/store/apps/details?id=com.natewren.csbw) `Widget de barra de busqueda`
+- 🟢 [Dantotsu](https://github.com/rebelonion/Dantotsu) `Cliente de AniList + proovedor de anime y manga`
+- 🟢 [Droid-ify](https://github.com/Droid-ify/client) `Cliente de F-Droid`
 - 🟢 [Dumbphone Assistant](https://f-droid.org/packages/com.github.yeriomin.dumbphoneassistant/) `Guarda contactos en la SIM`
-- 🟢 [Gallery](https://github.com/IacobIonut01/Gallery) 
+- 🟢 [FluffyChat](https://github.com/krille-chan/fluffychat) `cliente de Matrix`
+- 🟢 [Gallery](https://github.com/IacobIonut01/Gallery)
+- 🟢 [HeliBoard](https://github.com/Helium314/HeliBoard)
 - 🟢 [Image Toolbox](https://github.com/T8RIN/ImageToolbox) `Recorta y ajusta imagenes`
 - 🟢 [InnerTune](https://github.com/z-huang/InnerTune) `Front end de YouTube Music`
 - 🟢 [KDE Connect](https://f-droid.org/packages/org.kde.kdeconnect_tp/) `Envia archivos al Pc`
 - 🟢 [KeePassDX](https://github.com/Kunzisoft/KeePassDX) `Gestor de contraseñas`
-- 🟢 [LibreTube](https://github.com/libre-tube/LibreTube) `Front end de YouTube`
+- 🟢 [KurobaEx](https://github.com/K1rakishou/Kuroba-Experimental) `Cliente de Imageboardrs`
 - 🟢 [Molly](https://github.com/mollyim/mollyim-android) `Cliente de signal`
 - 🟢 [MPV](https://github.com/mpv-android/mpv-android) `Reproductor de video`
 - 🟢 [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) `Firefox mejorado`
 - 🔴 [Netflix](https://play.google.com/store/apps/details?id=com.netflix.mediaclient) 
-- 🟢 [NewPipe](https://github.com/TeamNewPipe/NewPipe) `Front end de YouTube`
 - 🔴 [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher) 
 - 🔴 [Obnsidian](https://play.google.com/store/apps/details?id=md.obsidian) `Notas`
 - 🟢 [Obtainium](https://github.com/ImranR98/Obtainium) `Descarga aplicaciones FOSS`
-- 🟢 [Open Board](https://github.com/openboard-team/openboard) 
 - 🟢 [Organic Maps](https://github.com/organicmaps/organicmaps) 
 - 🟢 [Photon](https://github.com/abhi16180/photon) `Comparte archivos entre celulares`
+- 🟢 [PipePipe](https://github.com/InfinityLoop1308/PipePipe) `YouTube front end`
 - 🟢 [Pocket Paint](https://github.com/Catrobat/Paintroid/) 
-- 🟢 [Proton Mail](https://github.com/ProtonMail/proton-mail-android) 
+- 🟢 [Proton Mail](https://github.com/ProtonMail/proton-mail-android)
+- 🟢 [Proton VPN](https://github.com/ProtonVPN/android-app)
 - 🔴 [RAR](https://play.google.com/store/apps/details?id=com.rarlab.rar) 
 - 🟢 [Read You](https://github.com/Ashinch/ReadYou) `Lector de RSS`
 - 🟢 [Record You](https://github.com/you-apps/RecordYou) 
@@ -173,12 +186,12 @@ Celular
 - 🟢 [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) `Front end de Reddit`
 - 🔴 [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community) 
 - 🟢 [Syncthing](https://github.com/syncthing/syncthing-android) `Sincroniza archivos entre dispositivos`
-- 🟢 [TachiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) `Lector de Manga`
 - 🔴 [Taco Taco](https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.taco_taco.paid) 
 - 🟢 [Thunder](https://github.com/thunder-app/thunder) `Cliente de Lemmy`
 - 🟢 [Translate You](https://github.com/you-apps/TranslateYou) 
 - 🟢 [Waistline](https://github.com/davidhealey/waistline) `Contador de calorias`
-- 🔴 [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) 
+- 🔴 [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)
+- 🟢 [Xtra](https://github.com/crackededed/Xtra) `Twitch client`
 </details>
 
 <details>
