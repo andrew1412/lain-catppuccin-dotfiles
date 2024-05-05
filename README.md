@@ -147,10 +147,10 @@ Phone
 - 🟢 [Aliucord](https://github.com/Aliucord/Aliucord) `Discord client`
 - 🟢 [Animiru](https://github.com/Quickdesh/Animiru) `Media provider`
 - 🟢 [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) `Playstore alternative`
-- 🟢 [Boorusphere](https://github.com/nullxception/boorusphere) `Booru client for wallpapers`
 - 🟢 [Calculator-Inator](https://github.com/prathameshmm02/Calculator-inator) `Calculator and converter`
 - 🟢 [Calendar](https://github.com/FossifyOrg/Calendar) 
-- 🟢 [Breezy Weather](https://github.com/breezy-weather/breezy-weather) 
+- 🟢 [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
+- 🟢 [Boorusphere](https://github.com/nullxception/boorusphere) `Booru client for wallpapers`
 - 🔴 [Crunchyroll](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
 - 🟢 [Clipious](https://github.com/lamarios/clipious) `YouTube front end`
 - 🔴 [CSBW](https://play.google.com/store/apps/details?id=com.natewren.csbw) `Custom search bar widget`
